@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Hi there, I'm Mohit - aka [smohit-mathur-dev]<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### Hi there, I'm Mohit - aka [mohit-mathur-dev]<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 
 ## I'm a Student, Coder, Developer and more of an Enthusiast!
