@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mohit-mathur-dev/mohit-mathur-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there, I'm Mohit - aka [smohit-mathur-dev]<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 
