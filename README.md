@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-### Hi there, I'm Mohit - aka [mohit-mathur-dev]<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### Hi there, I'm Mohit <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 
 ## I'm a Student, Coder, Developer and more of an Enthusiast!
 - 🌱 I’m currently learning to learn everything but netlix don't let me🤣
 - 👯 I’m looking to collaborate with other open source developers
 - 🥅 2020 Goals: Contribute more to Open Source projects nd try to survive it.
-- ⚡ Fun fact: I love to draw and play games
+- ⚡ Fun fact: I love to waste time
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
