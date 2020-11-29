@@ -16,8 +16,9 @@
 
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br>
 
@@ -44,4 +45,7 @@
 
 
 [twitter]: https://twitter.com/smaven_mohit
-[instagram]: https://instagram.com/mohit_mathur_
+[instagram]: https://instagram.com/mohit_mathur__
+[linkedin]: https://www.linkedin.com/in/mohit-mathur-1803
+[medium]: https://iammohitmathur.medium.com/
+
