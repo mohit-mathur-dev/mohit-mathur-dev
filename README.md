@@ -48,7 +48,9 @@
 
 ---
 
+<img align="left" alt="mohit-mathur-dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohit-mathur-dev&show_icons=true&hide_border=true&count_private=true&theme=vue" />
 
+---
 
 [twitter]: https://twitter.com/smaven_mohit
 [instagram]: https://instagram.com/mohit_mathur__
