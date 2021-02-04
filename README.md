@@ -52,7 +52,7 @@
 
 ---
 
-[twitter]: https://twitter.com/smaven_mohit
+[twitter]: https://twitter.com/bs_bdhiya
 [instagram]: https://instagram.com/mohit_mathur__
 [linkedin]: https://www.linkedin.com/in/mohit-mathur-1803
 [medium]: https://iammohitmathur.medium.com/
